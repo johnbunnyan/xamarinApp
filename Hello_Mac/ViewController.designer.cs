@@ -20,10 +20,10 @@ namespace Hello_Mac
 		
 		void ReleaseDesignerOutlets ()
 		{
-			if (ClickedLabel != null) {
-				ClickedLabel.Dispose ();
-				ClickedLabel = null;
-			}
+			//if (ClickedLabel != null) {
+			//	ClickedLabel.Dispose ();
+			//	ClickedLabel = null;
+			//}
 		}
 	}
 }
